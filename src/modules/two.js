@@ -1,5 +1,5 @@
 const twoJs = () => {
-  const two = "my two";
+  const two = "two.js";
   console.log(two);
 };
 
